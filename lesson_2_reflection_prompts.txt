@@ -18,6 +18,8 @@ It helps me see a timeline of work. Now I just need to know how to tie in experi
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merged. Why? It's logical. I can imagine you can easily get lost in the commit branches 
+without proper documentation.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
