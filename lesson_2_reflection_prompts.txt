@@ -23,3 +23,4 @@ without proper documentation.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Auto merge is faster, but it could assume mistakes.
