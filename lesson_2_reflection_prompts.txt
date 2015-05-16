@@ -7,11 +7,14 @@ It's hard to understand this one, but it is like the foyer of the office.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+I can add specific items and leave out others then commit as i please.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+For the times when I want to make variations of the master, branches will be useful.
 
 How do the diagrams help you visualize the branch structure?
+It helps me see a timeline of work. Now I just need to know how to tie in experiments.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
