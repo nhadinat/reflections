@@ -3,4 +3,8 @@ I'd like to use a remote repository whenever I'm stationed at an online computer
 
 Why might you want to always pull changes manually rather than having Git automatically stay up
 -to-date with your remote repository?
-It's a collaborative environment, so maybe I wouldn't want to draw all the branches immediately before I review them.
+It's a collaborative environment, so maybe I wouldn't want to draw all the branches 
+immediately before I review them.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks be all like, I clone on the github yo. Clones be the OG clones. Like attack of d'clones. Branches split yo work up into chewable bites so that you can experiment.
