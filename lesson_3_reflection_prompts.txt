@@ -14,3 +14,6 @@ I benefit from working on the latest revision of a project.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use Google Drive, but then we would have to use a bunch of different filenames. No bueno.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I'd make changes to master if it's a global change. I'll make changes on a branch to work on something new, before adding it to the master.
