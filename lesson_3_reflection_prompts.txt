@@ -8,3 +8,6 @@ immediately before I review them.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks be all like, I clone on the github yo. Clones be the OG clones. Like attack of d'clones. Branches split yo work up into chewable bites so that you can experiment.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I benefit from working on the latest revision of a project.
