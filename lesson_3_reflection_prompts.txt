@@ -11,3 +11,6 @@ Forks be all like, I clone on the github yo. Clones be the OG clones. Like attac
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I benefit from working on the latest revision of a project.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use Google Drive, but then we would have to use a bunch of different filenames. No bueno.
